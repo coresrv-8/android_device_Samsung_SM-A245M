@@ -1,0 +1,1 @@
+# android_device_Samsung_SM-A245M
